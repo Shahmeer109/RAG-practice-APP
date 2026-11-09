@@ -1,0 +1,24 @@
+[project]
+name = "testapp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Shahmeer109", email = "shahmeerhum109@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "jq>=1.13.0",
+    "langchain>=1.4.9",
+    "langchain-community>=0.4.2",
+    "langchain-core>=1.7.6",
+    "pymupdf>=2.1",
+]
+
+[project.scripts]
+testapp = "testapp:main"
+
+[build-system]
+requires = ["uv_build>=0.12.10,<0.13.0"]
+build-backend = "uv_build"

@@ -1,0 +1,102 @@
+{
+  "file_id": 2,
+  "generated_by": "random",
+  "people": [
+    {
+      "id": 1,
+      "name": "Ayesha Rossi",
+      "city": "Lisbon",
+      "active": false,
+      "tags": [
+        "violet",
+        "ember",
+        "thunder"
+      ],
+      "balance": 4166.38
+    },
+    {
+      "id": 2,
+      "name": "Hamza Brown",
+      "city": "Gujranwala",
+      "active": true,
+      "tags": [
+        "maple",
+        "meadow",
+        "anchor"
+      ],
+      "balance": 1763.19
+    },
+    {
+      "id": 3,
+      "name": "Hamza Wilson",
+      "city": "Lahore",
+      "active": true,
+      "tags": [
+        "maple",
+        "quiet",
+        "copper"
+      ],
+      "balance": 3865.94
+    },
+    {
+      "id": 4,
+      "name": "Isla Smith",
+      "city": "Lahore",
+      "active": false,
+      "tags": [
+        "maple",
+        "river",
+        "quiet"
+      ],
+      "balance": 4980.23
+    },
+    {
+      "id": 5,
+      "name": "Bilal Garcia",
+      "city": "Karachi",
+      "active": false,
+      "tags": [
+        "drift",
+        "signal",
+        "violet"
+      ],
+      "balance": 234.13
+    },
+    {
+      "id": 6,
+      "name": "Farhan Rossi",
+      "city": "Toronto",
+      "active": true,
+      "tags": [
+        "copper",
+        "engine",
+        "ember"
+      ],
+      "balance": 632.22
+    },
+    {
+      "id": 7,
+      "name": "Isla Ali",
+      "city": "Berlin",
+      "active": false,
+      "tags": [
+        "marble",
+        "pixel",
+        "violet"
+      ],
+      "balance": 1527.3
+    },
+    {
+      "id": 8,
+      "name": "Ayesha Garcia",
+      "city": "Karachi",
+      "active": false,
+      "tags": [
+        "signal",
+        "engine",
+        "copper"
+      ],
+      "balance": 4466.61
+    }
+  ]
+}

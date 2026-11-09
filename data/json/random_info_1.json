@@ -1,0 +1,102 @@
+{
+  "file_id": 1,
+  "generated_by": "random",
+  "people": [
+    {
+      "id": 1,
+      "name": "Isla Ahmed",
+      "city": "Cairo",
+      "active": true,
+      "tags": [
+        "thunder",
+        "meadow",
+        "pixel"
+      ],
+      "balance": 775.6
+    },
+    {
+      "id": 2,
+      "name": "Farhan Chen",
+      "city": "Karachi",
+      "active": true,
+      "tags": [
+        "quiet",
+        "orbit",
+        "whisper"
+      ],
+      "balance": 2401.6
+    },
+    {
+      "id": 3,
+      "name": "Daniel Chen",
+      "city": "Karachi",
+      "active": true,
+      "tags": [
+        "canyon",
+        "copper",
+        "lantern"
+      ],
+      "balance": 2998.99
+    },
+    {
+      "id": 4,
+      "name": "Grace Smith",
+      "city": "Karachi",
+      "active": true,
+      "tags": [
+        "marble",
+        "whisper",
+        "harvest"
+      ],
+      "balance": 4128.86
+    },
+    {
+      "id": 5,
+      "name": "Carla Rossi",
+      "city": "Berlin",
+      "active": true,
+      "tags": [
+        "whisper",
+        "pixel",
+        "signal"
+      ],
+      "balance": 1856.24
+    },
+    {
+      "id": 6,
+      "name": "Bilal Ahmed",
+      "city": "Berlin",
+      "active": true,
+      "tags": [
+        "lantern",
+        "breeze",
+        "marble"
+      ],
+      "balance": 3306.27
+    },
+    {
+      "id": 7,
+      "name": "Farhan Smith",
+      "city": "Cairo",
+      "active": false,
+      "tags": [
+        "breeze",
+        "drift",
+        "anchor"
+      ],
+      "balance": 1471.88
+    },
+    {
+      "id": 8,
+      "name": "Daniel Brown",
+      "city": "Cairo",
+      "active": false,
+      "tags": [
+        "ember",
+        "pixel",
+        "marble"
+      ],
+      "balance": 811.7
+    }
+  ]
+}
